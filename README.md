@@ -1,5 +1,5 @@
 # Git_Demo_AJ
 
-## Use  [_Git GUI Here、Git Bash Here_]
+> ## Use  _[_Git GUI Here、Git Bash Here_]_
 
-### 第一張圖 是從 *切換到分支後* 開始
+- ### 第一張圖 是從 *切換到分支後* 開始
